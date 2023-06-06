@@ -1,7 +1,6 @@
+numpy
+streamlit
 pandas
 plotly
-streamlit
-datetime
-openpyxl
-Pydeck
+
 
